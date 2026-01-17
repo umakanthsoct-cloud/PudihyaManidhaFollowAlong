@@ -6,7 +6,7 @@ The system follows a modular, layered architecture:
 - Interaction Loop (input → reasoning → response)
 - Memory subsystem (short-term & long-term)
 - Reasoning & orchestration layer
-- Tooling / integrations layer
+- Skills / Tooling / integrations layer
 
 ## Design Principles
 - Architecture before optimization
